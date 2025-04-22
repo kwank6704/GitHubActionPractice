@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "demoeiei-30aa3",
+    "staging": "demoeiei-30aa3"
+  },
+  "targets": {},
+  "etags": {}
 }
